@@ -1,5 +1,5 @@
 mkdocs
-# Mkdocs
+# MkDocs
 
 Based on "Material for MkDocs" at https://squidfunk.github.io/mkdocs-material/
 
