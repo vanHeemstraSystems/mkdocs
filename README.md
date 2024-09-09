@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+mkdocs
+# Mkdocs
 
-Based on "ABC" at https://www.abc.com/
+Based on "Material for MkDocs" at https://squidfunk.github.io/mkdocs-material/
 
 ## 100 - Introduction
 
