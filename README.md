@@ -5,6 +5,8 @@ mkdocs
 
 Based on "Material for MkDocs" at https://squidfunk.github.io/mkdocs-material/
 
+Based on "How To Create STUNNING Code Documentation With MkDocs Material Theme" at https://www.youtube.com/watch?v=Q-YA_dA8C20
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
