@@ -1,6 +1,8 @@
 mkdocs
 # MkDocs
 
+> Material for MkDocs is a powerful documentation framework on top of MkDocs, a static site generator for project documentation.
+
 Based on "Material for MkDocs" at https://squidfunk.github.io/mkdocs-material/
 
 ## 100 - Introduction
